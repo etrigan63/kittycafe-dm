@@ -1,5 +1,5 @@
-# leftwm-catppuccin-dm
+# kittycafe-dm
 Catppuccin theme for dual monitor setups
 
 ## Screenshot
-![Screenshot on dual 4K monitors](https://github.com/etrigan63/catppuccin-dm/screenshot.png)
+![Screenshot on dual 4K monitors](/screenshot.png)
