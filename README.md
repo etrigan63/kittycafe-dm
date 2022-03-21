@@ -1,2 +1,2 @@
-# leftwm-catppuccin-dm
+# catppuccin-dm
 Catppuccin theme for dual monitor setups 
