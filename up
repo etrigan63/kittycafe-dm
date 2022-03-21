@@ -26,16 +26,12 @@ xfce4-power-manager &
 numlockx on &
 blueberry-tray &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-#/usr/lib/xfce4/notifyd/xfce4-notifyd &
-dunst &
+/usr/lib/xfce4/notifyd/xfce4-notifyd &
+#dunst &
 #volumeicon &
 #conky -c ~/.config/leftwm/system-overview &
 #nitrogen --restore &
 #run caffeine &
-run tailscale-systray &
-run nordtray &
-run flameshot &
-#run protonmail-bridge -no-window &
 #vivaldi-stable &
 #firefox &
 #thunar &
@@ -44,15 +40,6 @@ run flameshot &
 #discord &
 #spotify &
 #atom &
-
-HPLOCK="$HOME/.hplip/hp-systray.lock"
-if test -f "$HPLOCK"; then
-  rm "$HPLOCK"
-fi
-
-run hp-systray &
-
-systemctl --user restart xidlehook.service
 
 if test -f "$HOME/.cache/paleofetch"; then
   rm "$HOME/.cache/paleofetch"
