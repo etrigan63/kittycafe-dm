@@ -8,7 +8,7 @@ This version contains custom code to represent the layouts used on each monitor 
 
 Created by Carlos Echenique.
 
-##Picom Changes: (based on stable release of picom)
+## Picom Changes: (based on stable release of picom)
 
 Rounded corners added
 Blur enabled: dual_kawase
@@ -16,7 +16,7 @@ Blur kern: 5x5box
 Backend enabled: glx
 Shadows diabled
 
-##More catppuccin goodness
+## More catppuccin goodness
 GTK theme - in AUR search for "catppuccin-gtk"
 Grub Theme - in AUR search for "catppuccin-grub"
 Kvantum theme - in progress
