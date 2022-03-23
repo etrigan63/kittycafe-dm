@@ -8,6 +8,9 @@ This version contains custom code to represent the layouts used on each monitor 
 
 Created by Carlos Echenique.
 
+## Font dependency
+- SauceCode Pro Nerd Font
+
 ## Picom Changes: (based on stable release of picom)
 - Rounded corners added
 - Blur enabled: dual_kawase
