@@ -9,6 +9,7 @@ This version contains custom code to represent the layouts used on each monitor 
 Created by Carlos Echenique.
 
 ## Font dependency
+- RobotoMono Nerd Font
 - SauceCode Pro Nerd Font
 
 ## Picom Changes: (based on stable release of picom)
